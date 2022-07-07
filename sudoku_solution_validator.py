@@ -1,3 +1,5 @@
+#Solution for "Sudoku Solution Validator" in Codewars
+
 def is_arr_duplicate(arr):
     for i in enumerate(arr):
         v = [j for j in arr]
